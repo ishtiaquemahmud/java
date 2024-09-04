@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "Collection.Hashmap",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Hashset",
+            "request": "launch",
+            "mainClass": "Collection.Hashset",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist",
+            "request": "launch",
+            "mainClass": "Collection.Arraylist",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Outputracing",
+            "request": "launch",
+            "mainClass": "OT.Outputracing",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Sub",
+            "request": "launch",
+            "mainClass": "Finalexam.Sub",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "Exceptions.Exceptions",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Type",
+            "request": "launch",
+            "mainClass": "Typechange.Type",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Super",
+            "request": "launch",
+            "mainClass": "Exam_prep.Super",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Sb",
+            "request": "launch",
+            "mainClass": "Encapsulation.Sb",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Interface.Main",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Aanimal.Main",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Lion",
+            "request": "launch",
+            "mainClass": "Aanimal.Lion",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Elephant",
+            "request": "launch",
+            "mainClass": "Aanimal.Elephant",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Fahim",
+            "request": "launch",
+            "mainClass": "Interface.Fahim",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Animal.Main",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Do",
+            "request": "launch",
+            "mainClass": "ABSTRACTION.Do",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Arrray",
+            "request": "launch",
+            "mainClass": "Arrays.Arrray",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Box2",
+            "request": "launch",
+            "mainClass": "Printf.Box2",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Printf.Demo",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Sub",
+            "request": "launch",
+            "mainClass": "Inheritance.Sub",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "GS.Main",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Siu",
+            "request": "launch",
+            "mainClass": "Siu.Siu",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Anime",
+            "request": "launch",
+            "mainClass": "Get_set.Anime",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Nested_whileloop",
+            "request": "launch",
+            "mainClass": "Loop.Nested_whileloop",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Nested_forloop",
+            "request": "launch",
+            "mainClass": "Loop.Nested_forloop",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Nestedblocks",
+            "request": "launch",
+            "mainClass": "Loop.Nestedblocks",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Dowhile",
+            "request": "launch",
+            "mainClass": "Loop.Dowhile",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "Loop.For",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loop.Loop",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch.Switch",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Printff",
+            "request": "launch",
+            "mainClass": "Printf.Printff",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test.Test",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "cgpa",
+            "request": "launch",
+            "mainClass": "cgpa.cgpa",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Noo",
+            "request": "launch",
+            "mainClass": "classs.Noo",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "hi",
+            "request": "launch",
+            "mainClass": "hi.hi",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "ishtiaque",
+            "request": "launch",
+            "mainClass": "ishtiaque.ishtiaque",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "lol",
+            "request": "launch",
+            "mainClass": "lol.lol",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "namewhat",
+            "request": "launch",
+            "mainClass": "nameask.namewhat",
+            "projectName": ".vscode_27fc38ad"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "scan.Solution",
+            "projectName": ".vscode_27fc38ad"
+        }
+    ]
+}
